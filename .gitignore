@@ -1,0 +1,5 @@
+crawler/target
+**/*.rs.bk
+kw-analyzer/__pycache__
+kw-analyzer/data/hn-history.json
+dist
